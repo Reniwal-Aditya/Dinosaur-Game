@@ -13,4 +13,4 @@ A fun clone of the classic **Chrome Dinosaur Game** 🕹️! Built as a learning
 ## 🛠️ How to Play
 1. Clone the repository:
    ```bash
-   git clone <repository-URL>
+   git clone (https://github.com/Reniwal-Aditya/Dinosaur-Game.git)
