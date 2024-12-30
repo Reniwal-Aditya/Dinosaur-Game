@@ -14,3 +14,16 @@ A fun clone of the classic **Chrome Dinosaur Game** 🕹️! Built as a learning
 1. Clone the repository:
    ```bash
    git clone (https://github.com/Reniwal-Aditya/Dinosaur-Game.git)
+
+2. Navigate to the project folder:
+   ```bash
+   cd <project-folder>
+   ```
+3. Open the `index.html` file in your favorite browser.
+
+## 🎮 Play Online
+Yes, you can play it online! 🌐  
+[Click here to play the Dinosaur Game Clone](https://<your-username>.github.io/<repository-name>/)
+
+
+This is the proper markdown format, and you can paste it directly into your README file. Let me know if you need any more adjustments!
