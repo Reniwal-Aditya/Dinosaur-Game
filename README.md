@@ -26,4 +26,4 @@ Yes, you can play it online! 🌐
 [Click here to play the Dinosaur Game Clone](https://reniwal-aditya.github.io/Dinosaur-Game/)
 
 
-This is the proper markdown format, and you can paste it directly into your README file. Let me know if you need any more adjustments!
+
